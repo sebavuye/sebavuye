@@ -11,7 +11,8 @@
 I’m a self-taught front end developer. Currently, my main focus is **Javascript** and **React**.
 <br/>
 
-####Current stack:
+Current stack:
+<br/>
 <img src="https://img.shields.io/static/v1?logo=javascript&label&color=F7DF1E&message=JavaScript&logoColor=black&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=react&label&color=61DAFB&message=React&logoColor=black&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=sass&label&color=CC6699&message=SCSS&logoColor=white&logoWidth=20">
