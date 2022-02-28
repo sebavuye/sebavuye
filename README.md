@@ -37,5 +37,5 @@ Current stack:
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavuye&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebastianvuye)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavuye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
