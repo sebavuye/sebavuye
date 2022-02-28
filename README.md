@@ -35,3 +35,5 @@ Current stack:
 <img src="https://img.shields.io/static/v1?logo=github&label&color=181717&message=GitHub&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=figma&label&color=F24E1E&message=Figma&logoColor=white&logoWidth=20">
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavuye&show_icons=true)
