@@ -38,7 +38,12 @@ Current stack:
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavuye&show_icons=true)
 <br/> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavuye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavuye&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebavuye&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=sebavuye&show_icons=true" />
