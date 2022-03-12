@@ -39,6 +39,6 @@ Current stack:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavuye&show_icons=true)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavuye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<figure><embed src="https://wakatime.com/share/@sebastianvuye/51e29936-916a-4652-8352-c47857f4f28c.svg"></embed></figure>
 
 
