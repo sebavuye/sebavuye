@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 31 hrs 44 mins
+Total Time: 34 hrs 17 mins
 
-TypeScript       21 hrs 41 mins  █████████████████░░░░░░░░   68.33 %
-MDX              4 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-JavaScript       2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-.env file        44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-SCSS             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Markdown         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript       24 hrs 35 mins  ██████████████████░░░░░░░   71.74 %
+MDX              4 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+JavaScript       2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+.env file        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+SCSS             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
