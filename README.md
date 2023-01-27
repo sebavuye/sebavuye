@@ -1,6 +1,7 @@
 ## 👋 Hi! I'm Sebastian.
 
 [![wakatime](https://wakatime.com/badge/user/df0036c6-328a-4a39-be9b-e49417ed22a1.svg)](https://wakatime.com/@df0036c6-328a-4a39-be9b-e49417ed22a1)
+![codewars](https://www.codewars.com/users/sebavuye/badges/small)
 
 I’m a self-taught front end developer. Currently, my main focus is Javascript and React
 
