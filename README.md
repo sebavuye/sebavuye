@@ -19,14 +19,14 @@ I’m a self-taught front end developer. Currently, my main focus is Javascript 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 58 mins
+Total Time: 12 hrs 3 mins
 
-TypeScript     7 hrs 54 mins   ██████████████████████░░░   88.09 %
-.env file      33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-SCSS           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-JavaScript     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-TSConfig       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-yarn.lock      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript     9 hrs 41 mins   ████████████████████░░░░░   80.46 %
+.env file      1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+SCSS           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JavaScript     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
