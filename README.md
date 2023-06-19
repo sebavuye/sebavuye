@@ -21,7 +21,7 @@ I’m a self-taught front end developer. Currently, my main focus is Javascript 
 ```txt
 Total Time: 40 hrs 36 mins
 
-TypeScript       35 hrs 43 mins  ██████████████████████░░░   87.99 %
+TypeScript       35 hrs 44 mins  ██████████████████████░░░   87.99 %
 MDX              1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 .env file        56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 JavaScript       47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
