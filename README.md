@@ -7,7 +7,7 @@ I’m a self-taught front end developer. Currently, my main focus is Javascript 
 
 [Website](https://sebastianvuye.be) • [Twitter](https://twitter.com/sebavuye)
 
-- 🔭 I’m currently working at [Rombit](https://rombit.com/) as a Front-end Developer
+- 🔭 I’m currently working at [Made](https://made.be/) as a Front-end Developer
 - 💬 Ask me about **JavaScript, TypeScript and React**
 - 📫 How to reach me: [@sebavuye](https://twitter.com/sebavuye) on Twitter
 - ⚡ Fun fact: Movie nerd
