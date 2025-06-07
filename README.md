@@ -19,13 +19,13 @@ I’m a self-taught front-end developer. Currently, my main focus is Javascript(
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 hrs 6 mins
+Total Time: 36 hrs 9 mins
 
-TypeScript        34 hrs 18 mins  ██████████████████████░░░   87.71 %
-JSON              2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-C#                33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Project Details   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Markdown          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript        30 hrs 28 mins  █████████████████████░░░░   84.28 %
+JSON              2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+C#                1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Project Details   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Markdown          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
