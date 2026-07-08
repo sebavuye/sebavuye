@@ -21,9 +21,9 @@ I’m a self-taught front-end developer. Currently, my main focus is Javascript(
 ```txt
 Total Time: 2 hrs 47 mins
 
-TypeScript        1 hr 47 mins          ████████████████░░░░░░░░░   63.91 %
-JSON              27 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-Astro             19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+TypeScript        1 hr 46 mins          ████████████████░░░░░░░░░   63.89 %
+JSON              27 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+Astro             19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
 Markdown          11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 Project Details   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
